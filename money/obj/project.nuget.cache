@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OIAAaXks+JKs1q2uAnfZadySy9ALNBj6MszRhIep//lMHdsD7OqP7bwapNupKnF2E9OLbXLx2woVVgacBsvTwQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Дарья\\source\\repos\\money\\money\\money.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Дарья\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
